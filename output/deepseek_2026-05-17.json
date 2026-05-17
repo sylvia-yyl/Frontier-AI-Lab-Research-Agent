@@ -1,0 +1,128 @@
+{
+  "lab": "DeepSeek",
+  "date": "2026-05-17",
+  "status": "OK",
+  "steps_taken": 2,
+  "registry_summary": {
+    "lab": "DeepSeek",
+    "total_collected": 3,
+    "passed": 3,
+    "flagged": 0,
+    "blocked": 0,
+    "has_t1_source": true
+  },
+  "critic_scores": {
+    "claim_coverage": 10,
+    "counter_evidence": 9,
+    "logic_chain": 9,
+    "staleness_risk": 10
+  },
+  "critic_total": 38,
+  "verdict": "PASS",
+  "quality_flag": "OK",
+  "weak_areas": [
+    "Lack of specific quantitative metrics for 'cost-effectiveness' and 'inference efficiency breakthroughs', making it difficult to assess the magnitude of advancements.",
+    "Absence of market reception data, adoption rates, or competitive landscape analysis.",
+    "No financial performance data or valuation metrics to contextualize the product developments for investment purposes."
+  ],
+  "brief": "## DeepSeek Research Brief\n\n**Date:** 2026-05-17\n\n### Key Developments\n\n*   **DeepSeek V4 Preview Series Release:** DeepSeek officially released its latest AI model, the **DeepSeek V4 Preview** series, on April 24, 2026. This series includes two models: DeepSeek-V4-Pro and DeepSeek-V4-Flash (aithority.com, wavespeed.ai, deepseek.com, as of 2026-04-24).\n*   **Cost-Effectiveness for Long Contexts:** The DeepSeek V4 series is noted for a significant advancement in its cost-effectiveness for handling million-token context lengths (aithority.com, wavespeed.ai, deepseek.com, as of 2026-04-24).\n*   **Inference Efficiency Breakthroughs:** DeepSeek has achieved significant breakthroughs in inference efficiency for large language models (LLMs). These advancements stem from architectural innovations, optimized training techniques, and hardware-level programming (adasci.org, medium.com, bain.com, as of 2026-05-17).\n*   **Aims of Efficiency Breakthroughs:** The inference efficiency breakthroughs aim to reduce computational costs and memory requirements while maintaining or improving model performance (adasci.org, medium.com, bain.com, as of 2026-05-17).\n\n### Investment Implications\n\n*   **Competitive Advantage in Long-Context Applications:** The stated cost-effectiveness of the DeepSeek V4 series for million-token context lengths (as of 2026-04-24) could position DeepSeek favorably in applications requiring extensive context processing, potentially attracting enterprise clients or enabling new, economically viable use cases.\n*   **Potential for Improved Profitability and Market Share:** Breakthroughs in inference efficiency (as of 2026-05-17) suggest a reduction in operational costs for DeepSeek and potentially for users of their models. This could lead to improved profit margins for DeepSeek or allow for more aggressive pricing strategies, potentially enhancing market share against competitors.\n\n### Limitations\n\n*   **Incomplete Model Details:** The provided findings do not fully detail the specifications or capabilities of the DeepSeek-V4-Pro model (aithority.com, wavespeed.ai, deepseek.com, as of 2026-04-24).\n*   **Lack of Quantitative Metrics:** Specific quantitative improvements or metrics regarding the \"cost-effectiveness\" of the V4 series or the \"inference efficiency breakthroughs\" are not provided. This limits the ability to assess the magnitude of these advancements (aithority.com, wavespeed.ai, deepseek.com, as of 2026-04-24; adasci.org, medium.com, bain.com, as of 2026-05-17).\n*   **Limited Scope of Efficiency Details:** While \"architectural innovations, optimized training techniques, and hardware-level programming\" are cited as drivers for inference efficiency, the specific nature and impact of these elements are not elaborated upon (adasci.org, medium.com, bain.com, as of 2026-05-17).\n*   **Absence of Market Reception Data:** The findings do not include information on the market's initial reception, adoption rates, or competitive landscape for the DeepSeek V4 series or its efficiency breakthroughs.\n*   **No Financial or Valuation Data:** The brief is based solely on product and research developments, with no financial performance data or valuation metrics provided.",
+  "data_registry": [
+    {
+      "id": "40f3483c",
+      "content": "DeepSeek AI has been active in publishing significant research papers and updates throughout 2026, focusing on architectural innovations, efficiency, and enhanced reasoning capabilities.\n\nKey research papers and advancements from DeepSeek AI in 2026 include:\n\n*   **\"mHC: Manifold-Constrained Hyper-Connections\"** DeepSeek commenced 2026 with a notable technical paper, co-authored by founder Liang Wenfeng, introducing \"Manifold-Constrained Hyper-Connections\" (mHC). This method proposes a re-evaluation of the fundamental architecture for training foundational AI models, aiming to make them more cost-effective. Published in January 2026, the paper addresses a \"foundational instability\" issue in AI models by leveraging the 1967 Sinkhorn-Knopp algorithm to maintain numerical stability in deep networks. Empirical results confirm mHC's effectiveness in enabling stable large-scale training with superior scalability compared to conventional hyper-connections.\n\n*   **DeepSeek-R1 Updates** In Janu",
+      "tier": "T1",
+      "as_of": "2026-05-01",
+      "sources": [
+        "scmp.com",
+        "businessinsider.com",
+        "thinkers360.com",
+        "medium.com",
+        "reddit.com",
+        "deepseek.ai",
+        "reddit.com",
+        "deepseek.ai",
+        "deepseek.ai"
+      ],
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFETngKS0rQOZ1IIniLVRRyWoY_fIzCgKBfqsSI9C3QP7Vsd4AFVy_Y7lmerNdmDRTBHROM3oB5MezZL2Kj_jWU3x6WC_-gsgnGF3J86opJ4aiDnLmUJsWRLDQ-_rBi_GxPysf4_lxym62W0b5xfCrqjmWYOLnwMNNXe5W1ZIoIeSUYluYtYU8MzhnEADLHQ7-fYnaV_p3_uBvC8XiDi3r-zteN-Zymw7_IvqC6I1a-",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9C3YY3LwLP5fLfevDC9pmxYNIXeUHhVpqCJRVNtF4D7WMoYvYtNxO1c7CBoXqY8TVVnxgUUPEoA0yKsvTnCieJn2m3WDVPKvNzLAytosIS8tYpDYJJfxg9Iy70gFurowH0igSqh0aTRUpt-vexU0ckpLXrO7ybsieRrnDGOLyS_svhoIKN_jteQW4tBuDiZExN8JFVGc83BIg9MsAWh7qM1SsdZKeB3NX7Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHYtOoIfyv2iNjbkQL1Dxv-tlK99ASNBBaUmQ2IqUU44xWfnBvPBGnP001GZFKezQJdvD4R8RDV8eTIIsbvYMzd5ICZzq1wN2b011AuReqp83PXcQ4KB_XqvmXyv3npqxbZ17I4bkY0L9bOForpoBUjG6Jam6BTIIuUOulXk8vDdgosoalMyGH1lJzgZPiyWKv_LxIO_UBaSPMJvI-DwCnxwJ0eD_bmeIViXeeGV6D",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMfIMtt3306V30p347-DjXa4_yVAbUwG0MCMU5LS-1T-Ms1U2uUrzC0kOYHEQoA_EE6E6NbI1nt7VPyp4AGzYVlySjPs38ZOrSvjFUq8SH_TGWNduoOcWtKKmXDaLfEtmgegLIyLD3ZGBgxEOwHc66xrRU0yZEfRUZsX4POLCuUmtAB1GqZKK7AWxTGfHskFWkowmSdHJJVGU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDi4XOT8BKq3BCleXJL7vjJ9CgFO144rYseKxhmvqRIfGKBlC4PTHvaWRfVjbNteCWLlsXON6HM1TvTmabzds4OAGR5nRdZn2DSw5psqNMRD8YtnRJzZMVQ_MQc7pwjxz9Dg-5DPrVxKuGqk6G0OnY-MiKpNWOEmX4KEk70SgotLfH3WwAfb4xqUC1XRflUSmNkI2RypI=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5zNYD4wggnv1Pze7_IgZizss6s56MBT6wmbrzpfTikweMAeCWVmCD3zpUy7NvUmn4IdqDsiQhxGc2reAOKGyWSbyrUuVhqyZO2YHlesoiXi6Y",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDG8Ay9lcUjy6nsaUOOqbSrpIyAmzyaRwrFbuuP2nfau_FsmW4b-rnP-P0zZRfkZa-grUIETa0RG-VzCNwsefhyk8MhgfJo8HAnM5Ci6E0DbNuJ1t7zxVars1fs7pi8NNS8ZRiXy3weYHP2Fzmz_RZJAiNOca_nTWpL1yXunot4tDje21G1W5RIZ7YCxU4aoOoIX5lgx-7lfMtU5nzy_nWHkE=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV6Wa7GkEQdmLFouVyZFfodxhKgGiQsrhorId9qJges9GE3do382TTW5_MesJdHDgxc2t5U_tm9Cfrl25HG6HcPvuPKt20abUNz-rwKuf71Wy7z0AkxdvOmx9uWqHAZCYRne4Ul4I=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV3MHbCGiNlixKEvuShqsnoQP8hMbiyHV_gzRhWWljXBTR0O-E7WO1UXgc2e74QyhCL3s9YD0W3vZbduJ444sMpiYndE0vBZcN2VCWLXg="
+      ],
+      "staleness_flag": false,
+      "gate": "PASS",
+      "caveat": null
+    },
+    {
+      "id": "d2aa2654",
+      "content": "DeepSeek officially released its latest AI model, the **DeepSeek V4 Preview** series, on April 24, 2026. This release includes two models: DeepSeek-V4-Pro and DeepSeek-V4-Flash.\n\nThe DeepSeek V4 series marks a significant advancement, particularly in its cost-effectiveness for handling million-token context lengths.\n\nKey details of the DeepSeek V4 models:\n*   **DeepSeek-V4-Pro**: This model features 1.6 trillion total parameters with 49 billion active parameters. It is designed to offer performance comparable to top closed-source models.\n*   **DeepSeek-V4-Flash**: A smaller and more economical option, DeepSeek-V4-Flash has 284 billion total parameters with 13 billion active parameters. It provides fast response times and highly cost-effective API pricing.\n\nBoth models support a context length of one million tokens and incorporate a hybrid attention architecture that combines Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA) for improved long-context efficiency. DeepSeek-V4-Pro-Max, the maximum reasoning effort mode of V4-Pro, is noted for significantly advancing the knowledge capabilities of open-source models, excelling in coding benchmarks and narrowing the gap with leading closed-source models in reasoning and agentic tasks. The API for both models was made available upon release.",
+      "tier": "T1",
+      "as_of": "2026-04-24",
+      "sources": [
+        "aithority.com",
+        "wavespeed.ai",
+        "deepseek.com",
+        "substack.com",
+        "huggingface.co"
+      ],
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIBMRrYsZ3-QaixxYu148GpdDIZB3TAmeEMsyOKI33rn9HcrJLLXauUWdH-z1j8Eb_Kj_7fZICBCYe1dUmsVNqzjTgdS0esELBLBqfCBmH0de6KiOLY2uQeWhOY1WhSW3Jjt197HlUxSSJae4WHOYQhlKxVGO0DJWID6SvEyKXoMmSP-az313RHDDFsqd6i6ZE5IyOzpxGn1kklrqRq2dOvAdwqTavK1yIEaG04Yaq-baOIEn9ohj8rJJj5_cZbdZrsRhAOaZAb5uiUAbN8Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvg5ETtQT8Y9zk-evdeHoiBUqtyGIPq_h3RCOw8prVbkwhnSfZ7Urdg2wd0XTOvcjfE1lDxoSaMtZCLFTOeMb2ExRg3r5S-h_vuoAN2C0Zp-Y4MvCqrW5r_XRKuoBlEBLA0whmNp9D6ycan6axyjmrxlDqLT2elIMedZ0-QeOilvWY--HdR_dZJlIpCG1ZIqbR96xPM6yuIYY5jJ4t",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKwilnfDGbWpDXLUXwDT349PNQmGJLUp3mpKSufE11WQI24UEtO8SloWmE2PEypjnRM-J75HhCvM3ypuZBj4n4a8BjvaYmJhl-H4heJQNP47CvRLEFNTg1XqcPuMIrY2e_L8tkkHQsyA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC-bvxxmpLvXquPDFkeL3qlDQfB_BPAxiwTfODqAGWqi4aeQtpYFYjSkdAwLqoY067FTJuurKMoCFsRHrwT2olWX1lVdSIpekyoY-Z_53_IKM9s2Zu7XKeGy07oTPdwQBlsSGKMJAVZ_WQeskaaPhVrbrvJHdBRmhb-U09p_o5pq2k",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2TShdAx_LqwvHBdbPW50jnq1uoEojb5aByB76C3mrjXJe6mkj_GJ7K__dQK-D6S-JBbBEncaHBWZPqj1qzInKLC_BkmCQKKG67jH9RMx-G1bVK0DaKefOU0Xc0PLQjAeIuYQRSEGQBfWPrtGI"
+      ],
+      "staleness_flag": false,
+      "gate": "PASS",
+      "caveat": null
+    },
+    {
+      "id": "bf46e033",
+      "content": "DeepSeek has made significant breakthroughs in inference efficiency for large language models (LLMs) through a combination of architectural innovations, optimized training techniques, and hardware-level programming. These advancements aim to reduce computational costs and memory requirements while maintaining or improving model performance.\n\nKey aspects of DeepSeek's research breakthroughs in inference efficiency include:\n\n*   **Mixture-of-Experts (MoE) Architecture:** DeepSeek models like V2, V3, and R1 leverage MoE architecture, where only a subset of the total parameters is activated for each input token. For instance, DeepSeek-V3 has 671 billion parameters but activates only 37 billion per token, significantly reducing computational overhead without sacrificing performance. DeepSeek-V2, with 236 billion parameters, activates just 21 billion per token, achieving strong performance while saving 42.5% in training costs and boosting maximum generation throughput by 5.76 times compared to DeepSeek 67B.\n*   **Multi-Head Latent Attention (MLA):** This innovative attention mechanism is central to DeepSeek's efficiency. MLA significantly compresses the Key-Value (KV) cache into a latent vector, drastically reducing memory consumption during inference. DeepSeek-V2, for example, achieves a 93.3% reduction in KV cache size, which directly leads to substantial gains in maximum generation throughput. DeepSeek-V4 further refines this with a hybrid attention design that combines compress",
+      "tier": "T1",
+      "as_of": "2026-05-17",
+      "sources": [
+        "adasci.org",
+        "medium.com",
+        "bain.com",
+        "ibm.com",
+        "semanticscholar.org",
+        "chrishayduk.com",
+        "github.com",
+        "reddit.com",
+        "forbes.com",
+        "verda.com",
+        "redhat.com",
+        "github.com",
+        "bentoml.com",
+        "csis.org",
+        "cognite.com"
+      ],
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIcYYUW4pDJy8mt3aSwhE7rOq5UiA282CvxS5lULt1WkR9DUuCDDentMuRNFRDjPWG1bvCdatPmeAaG0Qw99DQP8yTF5yeNh_lqePMhsThSq5BrHThLne7NBA_mW2GrMQ5gjXoA3jw6y5_-6ouf3BahaT_ge4p1rwFleKSaGZA-Jzw07ZQxUXu",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFxMSHUrq1BNokldeUnMg-_Cu7My_prkFi_ws8fiTOAJ14HwaMe6H1sdV6DRC46Sx_cykFvvlLinL9b2IozbUPttmQXmXenezEPCw7P96Yro1TsXGpa-YoTcfZYk389aopLaYi78D8iuInIjqun8MFFKQ5lGvG1stbMvv0p73kt51wOqitOdA2MH77JMEMUE8Ocz6Cqs-FjWa-7Iu4cdZ8Ljtif8HjTsmHaFvhHK4bx5dD6rSJ4ko=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxJ-ZV6v_PWgN0yKgjHSGa2e0EW7wohnKhE0zVnZu895FKhzOpjgY6369U14hLaukVt8wasQ-08Ts-NUJ2Z6BgOpty9vHWrhGX0ABboRLCIhgRIhxfxfCxJR9zWdbMN53mmQ5k0wlTNAAx8Fh_iB7IouBm55GPoorjmtxhMb7fH752",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0ezZTXFVU1_XksAg4UYVktQFMOSDbrDBmyPenSRGkgtbpX6MrT8mN_AMI3LWAG9lS-5LQ_f7TAiAxSLzGVYrYd54LdXOohoU88NIdupQQfDc9VHyZyCl2PiQvpU8X_GGABLlZ9OrPwoCT9MK0vNGKz9N8pnlaTWJSZV3qjSvf1nFqC0bVeYFDkCNjifd3HcB4M4NtJnieC0BQG4wl",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMcxkMBo57Nu7EPhgm4qwMyabLuWaNEjwWlX-RyOvZJoA7EybNoAZ-wvo3gqKIdDx8b4qpNvDzZ__E3sxzg0Ozx1142E-MXRd4pRjatKsSBM9GeY-3pF6l6gjgZQQLcUXtDlyMAx5JDKCmgT3sklEa8IjxJsMBRHWSbqOgVCpuVrsjBBl8z_vTps6NY9RPpI_Sk108IXDYV4aOwej6ZqiMAqnufVB4zQP8R0ux_-DQY3yA9gt3qWI9x6CXvRZBxzCXAertk2mTwe0z",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSrpmkKyNxpiyuttWy3AfxXIqJhDjiTlWdYa2eieY1aRGmQ3Yb6UuwQ9CT8zQehewJeB0G_kUuDoE1tJ5Hz8guM-Jc8KdpF9woHd8tNI_HfhcNPVQrurJCVhrsLTj7eslaZ6e66cq2WLVz9XdnJRcd9dP5GW-A06Csnr1SLqdS",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5jBvVld1cbiTMnX0-glg2iDIZ1pHvSCJH3sTdAzFj6bbVfCa-Pdz6qgEf815Bro8I55-Bngmm0WIzKdHRaj9l4TzFDiI0KVfaqkZrgq5UZL8f81J1dDBgXiNu1N5gsILn-lvs2A==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDFgUP69y0LWh_mjKYtOTnkj6L05x7FgGd14wDiuKHQnyo9ApuAZ1u80YP2BzJACQpcAz4SdebEeHgEgPHYwyewovoB3jvo_rzwD1gTUMsu1ulydysf_gYK7BgXcTmcXKTg9LfCwyodSQ-1BwHCZBJDT-hhiDYv4tCMzek9KAnZXGq7N2IPLK0TF7jdMeOW4z247Dxbk682xI0S6RP",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAquLdiWLtWcRhwvP3LdjDldhdq7xiUWHHcTkXePSkHsqHLBgPcX4ve-gvpbWxlsDq8R1L2lqe55XGr-FimMGy5N8-T3oX3vgXA5YZUcA8aj_YbO5lpyTfw6t0PcB5-__IGB3tG1vIdyN871vNut5TJTR9bShWeklwq66NjXnj5K3aIawOUywV5SF8xvSzJDRCRJ3sFuniAmWEK7Q177YRUqPstVaSYNTq",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4Kq3UF-DxehVisvFULG583_NQ9YhDl4-jx0PTCFQ_E5EP764cfZw8fA2K6OQ_KuL9Pm9tQTVtZVZ0O2vURUHVZdoRy0srxj8_AkcIffkIiq9C_mmlP-a3Tepy_KeEnMN-vB_HfcIBxVfo5s7-XJveIyhQT5JhXRLHirc=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH3w5uqTQaujp8uL6OvMv7fdMbKufyI4yERJe3y1zxBO_4zyG_c5A8s9HutXdwSm4TaqpzwfaCa7iFpiPPXwU9Egyf_lX8PqvAN93GueAkCX2leW7AwMTDxjI8LCe8VRVsFNIu-RY5nz9a_zV9b8pVePznNwemM7TFMKED440jQ_QfrGKXOD1klENUokNM",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzZjwRiZXFS3eVXhN-Sjqdftpu1Yi7yFXIExi4r-GW2ZXeToTMTDF6zhfA3SCTo_t2mCFNOX1O1ro63fD8enO7n9MFo-KLD2zRiGtpgyYsqAKhb2C_FvAXlvQ4TT2fOESE0ZSOL2y6IYQ-RtN7d8kerwI_h3hDtLypnNAf-_509cOwVwaul76W5UphrSorh69PjXelUr5qy9JTBfK3kHeBetygZ8uM6_-XSfC5Qnxti3aQrLgIXejtjNb1cNy88jKs1dQB7qWRDAM=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC52J1APMI788pKb85Ik-Qs5WgA8WAF0YyoqeJ5ryhyT_28uGzlc4a9H7zT1V4Hx6fCGLgtdHg3V0b1EAI87o5RszL6p6eDKzdKPQwVhZrB1SuDIjQ8vtzG6Rm-8pf_iRUuuQAAU48_mICGLZHF-5ejko7NkvBN0SKQPsQCuRPqDDsFHTk8oT8U5-taixlFYzKvYTf7s8=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBeKu7gtuvxq-_4DZM0mfGCTMA-E1F61odxR9jJbFgdrbTAt3EAolb3PydYlIWxGTMcyVeQcgXuKBfTUFNFOGCcfETl8bvkzRTMXCUt0tc1JQ0kwJZYe8ZzVtvHp0HmTE8s7M_UMzLHhuzLN3qIVzLP_pDS0ofkID9gWh-Vut6lbknWGyQ0IT88Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWMGb-qHKCBn0aftLlcLX9liayIBg-yvRpPXE9jCO_-PQ3crJACUFe0pmlCU46eodiBgPOPustttePJSg1Q50M0VVJhsFZ_jxTI-Jh9Ct5JMUm_cu4tncizXE56DARai1nqe1vsKaboQW69zDrWR-86hpQAYRd4AOeX6U="
+      ],
+      "staleness_flag": false,
+      "gate": "PASS",
+      "caveat": null
+    }
+  ]
+}
